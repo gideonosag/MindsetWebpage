@@ -17,9 +17,7 @@ ThoughtRight is a Christian-inspired webpage designed to help visitors capture n
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="file:///C:/Users/gideo/OneDrive/Desktop/index.html/thoughtRight.html"> ThoughtRight WebPage </a>
 <br />
 <br />
 Select the disk:  <br/>

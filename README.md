@@ -17,7 +17,7 @@ ThoughtRight is a Christian-inspired webpage designed to help visitors capture n
 
 <h2>Program walk-through:</h2>
 
-<a href="file:///C:/Users/gideo/OneDrive/Desktop/index.html/thoughtRight.html"> ThoughtRight WebPage </a>
+<a href=""> ThoughtRight WebPage </a>
 <br />
 <br />
 Select the disk:  <br/>
